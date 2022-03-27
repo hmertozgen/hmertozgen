@@ -261,10 +261,12 @@
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+<!-- <p align="center">
+  <img  src="https://raw.githubusercontent.com/#/#/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
-</p>
+</p> -->
+
+![snake gif](https://github.com/hmertozgen/hmertozgen/blob/output/github-contribution-grid-snake.gif)
 
 ------
 <!-- Credit: [Elanza-48](https://github.com/Elanza-48) -->
