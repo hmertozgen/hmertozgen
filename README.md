@@ -37,7 +37,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"> 
-    <img style="width:77;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" 
+    <img style="width:77;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
       alt="python"/> 
   </a>
   <a href="https://www.java.com" target="_blank"> 
