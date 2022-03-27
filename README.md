@@ -97,12 +97,12 @@
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
   
-    <a href="https://spring.io/" target="_blank"> 
+<!--     <a href="https://spring.io/" target="_blank"> 
       <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
   </a>
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
+  </a> -->
  
 </p>
 
@@ -160,10 +160,10 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/hmertozgen" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
+<!--   <a href="https://gitlab.com/Elanza-48" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
@@ -173,7 +173,7 @@
   </a>
   <a href="https://www.jenkins.io" target="_blank"> 
     <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
+  </a> -->
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
@@ -267,6 +267,6 @@
 </p>
 
 ------
-Credit: [Elanza-48](https://github.com/Elanza-48)
+<!-- Credit: [Elanza-48](https://github.com/Elanza-48) -->
 
-Last Edited on: 09/09/2021
+<!-- Last Edited on: 09/09/2021 -->
