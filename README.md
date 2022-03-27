@@ -216,7 +216,7 @@
     </a>
   </div> -->
   <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
+    <a  href="https://www.linkedin.com/in/halilmertozgen/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
 <!--     <a href="https://twitter.com/example" target="_blank">
